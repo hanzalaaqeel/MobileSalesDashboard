@@ -1,4 +1,4 @@
-# 📊 FinSight Dashboard | Power BI
+# 📊 Mobile Sales Dashbaord Dashboard | Power BI
 
 > **Interactive Finance Analytics Dashboard** built using **Microsoft Power BI** to analyze financial transactions, customer behavior, and business performance through dynamic KPIs and interactive visualizations.
 
